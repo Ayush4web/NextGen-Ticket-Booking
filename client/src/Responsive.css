@@ -1,0 +1,78 @@
+@media (max-width: 450px) {
+  .overlay{
+    width: 100%;
+  }
+  .img img {
+    height: 7rem;
+  }
+  .navbar {
+    flex-direction: column;
+    padding: 0;
+    padding-top: 0.7rem;
+  }
+  .links {
+    padding-left: 0;
+    margin-top: 1rem;
+  }
+  .links li{
+   font-size: 1.2rem;
+   margin: 0 0.8rem;
+  }
+
+  .body {
+    width: 90vw;
+    margin: 1.5rem auto;
+    padding-top: 0.5rem;
+  
+  }
+  .body p{
+   padding-left: 0.5rem;
+   padding-right: 0.5rem;
+   font-size: 0.8rem;
+   margin: 0.3rem 0rem !important;
+  }
+
+  footer p{
+    font-size: 0.7rem;
+  }
+
+  .form-control{
+    font-size: 0.7rem;
+    padding-left: 0.5rem;
+  }
+
+  .f-card,.card{
+     width: 355px;
+  }
+  .card-body{
+    padding: 0.7rem 0.7rem;
+  }
+  h5{
+    font-size: 1rem;
+  }
+  .btn{
+    font-size: 0.8rem;
+  }
+
+  .card-body img{
+    width: 140px !important;
+  }
+  .web{
+    width: 100vw;
+  }
+  .web video, .web canvas{
+    width: 100%;
+  }
+  .webcam{
+    height: 370px;
+  }
+  
+  .canvas{
+     width: 100%;
+     height: 400px;
+  }
+  .feedback .canvas ,.feedback video{
+    height: 250px !important;
+    width: 95% !important;
+  }
+}
