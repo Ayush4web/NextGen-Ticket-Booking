@@ -1,5 +1,5 @@
 # The Next Generation Train Ticket Booking System
-
+The smart & secure way to book train tickets.Using face recognition technology to make ticket booking easier. 
 This project was build under Microsoft Engage'22 by Ayush Choubey.
 
 ## ENV Config 
@@ -15,6 +15,7 @@ This project was build under Microsoft Engage'22 by Ayush Choubey.
  CLOUD_API_KEY=554163713634994
 
  CLOUD_API_SECRET=jWOhmckuFqOpZIaWowW2Gw1Mgwk
-
-3) npm start
-4) Open localhost:5000
+ 
+3) npm i
+4) npm start
+5) Open localhost:5000
